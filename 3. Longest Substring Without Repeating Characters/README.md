@@ -19,14 +19,14 @@ Explanation: The answer is "b", with the length of 1
 ### Example 3
 
 ```js
-Input s = "pwwkew"
-Output 1
-Explanation The answer is "b", with the length of 1
+Input: s = "pwwkew"
+Output: 1
+Explanation: The answer is "b", with the length of 1
 ```
 
 ### Constraints
 
 ```js
-0 <= s.length <= 5 * 10^4
+0 <= s.length <= 5 * 10<sup>4</sup>
 s consists of English letters, digits, symbols and spaces.
 ```
