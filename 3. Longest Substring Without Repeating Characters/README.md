@@ -27,6 +27,6 @@ Explanation: The answer is "b", with the length of 1
 ### Constraints
 
 ```js
-0 <= s.length <= 5 * 10<sup>4</sup>
+0 <= s.length <= 5 * 10^4
 s consists of English letters, digits, symbols and spaces.
 ```
